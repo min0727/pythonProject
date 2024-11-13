@@ -1,0 +1,15 @@
+# 仮想環境
+venv/
+.venv/
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+*$py.class
+
+# エディタ・IDE設定
+.vscode/
+.idea/
+
+# 環境変数ファイル
+.env
